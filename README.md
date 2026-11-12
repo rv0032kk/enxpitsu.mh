@@ -8,3 +8,4 @@
 |---|---|
 | `docs/00_game_plan_v1.0.pdf` | ゲーム企画書（企画検討版 v1.0） |
 | `docs/01_requirements.md` | 要件定義書 |
+| `docs/02_technical_design.md` | 技術設計書 |
